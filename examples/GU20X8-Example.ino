@@ -9,8 +9,8 @@
 // GU20x8 control pin   EN              <--> Arduino D11
 //
 
-#include "Display.h"
-#include "IConnection.h"
+#include "GU20X8.h"
+#include "GU20X8-IConnection.h"
 
 // Arduino PORTC = A0..A7
 #define AddressPort PORTC
