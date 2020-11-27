@@ -1,6 +1,6 @@
-#include "Display.h"
+#include "GU20X8.h"
 
-#include "IConnection.h"
+#include "GU20X8-IConnection.h"
 
 using namespace GU20x8;
 
